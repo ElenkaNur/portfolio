@@ -55,7 +55,7 @@ function HeroSection() {
             <h1 className="mt-3 max-w-4xl text-3xl  font-black tracking-tight md:text-4xl lg:text-6xl flex">
               <span className="mr-3">I'm</span>
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-indigo-500 from-10% via-sky-500 via-30% to-emerald-500 to-90%">
-                Muhammad Ranju
+                Elena Nurullina
               </span>
             </h1>
             <h2 className="mt-6 font-bold lg:text-2xl md:text-xl sm:text-lg flex flex-row items-center">
