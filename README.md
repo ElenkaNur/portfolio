@@ -1,4 +1,4 @@
-# Md Ranju Portfolio Next.js
+# Elena Nurullina Portfolio Next.js
 
 ## Overview
 
@@ -88,6 +88,3 @@ This project is licensed under the MIT License.
 ## Contact
 
 For any inquiries, please contact mdranju23@gmail.com.
-
-![Screenshot1](./public/home.jpeg)
-![Screenshot2](./public/home2.jpeg)

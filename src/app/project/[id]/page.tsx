@@ -43,7 +43,7 @@ export async function generateMetadata({
           alt: title,
         },
       ],
-      siteName: "Md Ranju Portfolio",
+      siteName: "Elena Nurullina Portfolio",
       type: "website",
       url: `https://mdranju.xyz/project/${id}`,
     },

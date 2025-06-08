@@ -71,10 +71,10 @@ c25 -5 62 -24 83 -40 l38 -31 122 32 c156 41 364 52 492 26 205 -42 374 -172
               href="https://github.com/muhammadranju"
               target="_blank"
               rel="noopener noreferrer"
-              aria-label="Muhammad Ranju Github Profile"
+              aria-label="Elena Nurullina Github Profile"
             >
               <span className="font-bold text-indigo-500 hover:underline ml-1 mr-1">
-                Muhammad Ranju.
+                Elena Nurullina.
               </span>
             </a>
             All rights reserved.

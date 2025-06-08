@@ -25,7 +25,7 @@ export const ContentUs = () => {
           className="object-cover z-50 overflow-hidden w-full h-56 rounded-xl shadow-lg lg:shadow-none md:h-96 lg:h-full"
           placeholder="blur"
           src={Ranju}
-          alt="Md Ranju Images"
+          alt="Elena Nurullina Images"
         />
       </div>
 
